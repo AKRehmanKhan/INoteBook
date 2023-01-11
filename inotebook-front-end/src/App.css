@@ -1,0 +1,9 @@
+global{
+  margin: 0px;
+  padding: 0px;
+}
+
+::placeholder {
+  color: black;
+  text-align: center
+}
